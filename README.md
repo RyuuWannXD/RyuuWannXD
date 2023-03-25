@@ -17,7 +17,7 @@
 ## ```Contact Me```
 <a href="https://instagram.com/wan_superman_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="wan_superman_" height="30" width="40" /></a>
 <a href="https://wa.me/6283863552188"><img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Whatsapp.svg"/></a>
-<a href="mailto: ryuuwannnXD@gmail.com">
+<a href="mailto: ryuuwannnxd@gmail.com">
 <img align="left" alt="SIEGRIN | Gmail" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Gmail.svg" /></a>
     
 ---------
